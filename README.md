@@ -1,5 +1,6 @@
 **Lending Club Loan Analysis Project**
-📌 Project Overview
+----------------------------------------------------------------------------------------------------------------
+📌 Project Overview -
 This project involves end-to-end data analysis and transformation on Lending Club datasets to understand borrower behavior and predict loan default risks. The project is divided into three main phases:
 
 1)Data Ingestion & Cleaning
